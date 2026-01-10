@@ -55,7 +55,7 @@ I’m a **Power BI Developer & Data Analyst** with **4 years of experience** in 
 ## 📫 Connect with Me!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/shaikmoulali17"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/shaikmoulali17"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:moulashaik834@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
 
