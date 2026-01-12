@@ -1,9 +1,6 @@
-<!-- Banner Image (Optional) -->
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Power BI & Data Analytics Banner" width="100%" />
-</p>
 
-<h1 align="center">Hi, I'm <strong>[SHAIK MOULALI]</strong> 👋</h1>
+
+<h1 align="center">Hi, I'm <strong>SHAIK MOULALI</strong> 👋</h1>
 <h3 align="center">A passionate Power BI Developer & Data Analyst turning raw data into actionable insights</h3>
 
 ---
