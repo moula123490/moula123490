@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm <strong>SHAIK MOULALI</strong> 👋</h1>
-<h3 align="center">A passionate Power BI Developer & Data Analyst turning raw data into actionable insights</h3>
+<h3 align="center">A passionate  Data Analyst & Power BI Developer turning raw data into actionable insights</h3>
 
 ---
 
