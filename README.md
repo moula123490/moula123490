@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I’m a ** Data Analyst & Power BI Developer ** with **4 years of experience** in Power BI, Python, Oracle SQL, and Excel. I build **interactive dashboards**, automate reporting workflows, and deliver **data-driven solutions** that help teams make smarter business decisions.
+I'm a Data Analyst with 4 years of experience in Power BI, SQL, Python, and Excel. I build interactive dashboards, automate reporting workflows, and transform raw data into actionable insights that support data-driven business decisions. I'm passionate about analytics and continuously learning new tools and technologies.
 
 ---
 
