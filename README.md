@@ -30,7 +30,7 @@ I'm a Data Analyst with 4 years of experience in Power BI, SQL, Python, and Exce
 
 ## 📌 Featured Projects
 
-### 🔥 Power BI Dashboards
+### 🔥 Projects (Pandas, matplotlib, seaborn, MySQL, Power BI)
 | Project | Description |
 |---------|-------------|
 | **[Student Performance Analysis](https://github.com/moula123490/Student_Performance_Analysis)** | 📈 Interactive dashboard showing students insights |
