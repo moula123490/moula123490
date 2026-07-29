@@ -117,7 +117,7 @@ Python • SQL • Power BI • Pandas
 - Visualized trends using Power BI
 
 🔗 Repository:
-https://github.com/moula123490
+[https://github.com/moula123490](https://github.com/moula123490/Student_Performance_Analysis)
 
 ---
 
